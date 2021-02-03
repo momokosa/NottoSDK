@@ -1,0 +1,3 @@
+include ':notto-sdk'
+include ':app'
+rootProject.name = "NottoSDK"
